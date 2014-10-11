@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BaeWatch</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">BAEWATCH</string>
+    <string name="login">LOG IN</string>
+    <string name="title_activity_log_in">LogInActivity</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="goBack">Go Back</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+
+</resources>
